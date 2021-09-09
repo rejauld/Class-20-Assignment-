@@ -1,0 +1,22 @@
+body, h1, h2, h3, h4, h5, h6, a, p, span{
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+.navbar{
+    background: #e3f2fd;
+}
+
+.navbar-brand img{
+    width: 42px;
+    height: auto;
+}
+
+
+
+
+/* carousel-section */
+
+.carousel-item img{
+    height: 500px;
+}
